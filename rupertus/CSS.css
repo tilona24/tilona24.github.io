@@ -1,0 +1,60 @@
+#header {
+	background-color: #DFE4E6;
+}
+
+#balken1{
+	background-color: #9D0E12;
+	height: 6mm;
+}
+
+#balken2{
+	background-color: #721122;
+	height: 3mm;
+}
+.navbar-toggle{
+	background-color: white;
+}
+
+#thermennav {
+	background-image: url(img/therme-rot.jpg);
+	margin-left: -300px;
+	height: 391px;
+	width: 140%;
+	background-size: auto;
+	overflow: hidden;
+}
+
+.dropdown-toggle {
+	background-color: white;
+}
+
+#hintergrundinfo {
+	background-color: #F7F7F7;
+}
+
+h2{
+	color: #711322;
+	font-size: 25px;
+	padding: 20px 0px;
+}
+
+.imglinks {
+	float: left;
+	margin-right: 15px;
+}
+
+#infobox {
+	background-color: #FFE5DC
+}
+
+#tdlinks{
+	padding-right: 100px;
+}
+
+#glyph{
+	padding-right: 10px;
+}
+
+hr{
+	border:  1px solid #CCCCCC;
+}
