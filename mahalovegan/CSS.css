@@ -1,3 +1,23 @@
+a{
+	text-decoration: none;
+	color:white;
+}
+
+a:hover{
+	text-decoration: none;
+	color:white;
+}
+
+a:active{
+	text-decoration: none;
+	color:white
+}
+
+a:visited{
+	text-decoration: none;
+	color:white;
+}
+
 #header{
 	padding:0px;
 	background-color:#6FCDE6;
@@ -11,9 +31,20 @@ h1{
 }
 
 .footer{
-	position: absolute;
+	position: fixed;
 	bottom:0;
 	width:100%;
 	background-color:#6FCDE6;
 	color: white;
 }
+
+.social{
+	width: 50px;
+	display: inline-block;
+	margin-top:10px;
+}
+
+#license{
+	font-size:7px;
+}
+
