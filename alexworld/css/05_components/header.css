@@ -1,0 +1,9 @@
+.header{
+	background-image: url('../../img/minecraft-669307_1280.jpg');
+	background-position: center;
+	height: 200px;
+}
+
+header .container-fluid {
+	padding: 0;
+}
