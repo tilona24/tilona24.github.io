@@ -1,0 +1,30 @@
+.choose_race {
+  input[type = 'radio'] {
+    &:checked + label {
+      background-color: white;
+      color: black;
+      border-radius: 20%;
+    }
+  }
+
+  label {
+    display: inline-block;
+    padding: 3px;
+    font-size: 30px;
+  }
+
+}
+
+.choose_gender {
+  input[type = 'radio'] {
+    &:checked + label {
+      box-shadow: 4px -3px 15px 4px #000000;
+      border-radius: 100%;
+      background-color: rgba(0, 0, 0, 0.6);
+    }
+  }
+  label {
+    font-size: 2px;
+    margin: 0 50px;
+  }
+}
